@@ -1,3 +1,8 @@
+## Analysis
+Charter school types seem to have a higher average math score, reading score, % passing math, % passing reading, and % overall passing than District school types. The top 5 schools that are high performing are Charter schools while the bottom 5 performing are all district schools. Schools with a lower population of students seem to have a higher average score than schools with a higher population of students. 
+
+
+
 ## Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
